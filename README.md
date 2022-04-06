@@ -1,25 +1,8 @@
-### Hi there 👋 
+**Hi there, i'm jeizaider**
+###
+###
+![arch4](https://user-images.githubusercontent.com/64804177/162041073-d8b0d156-a9fd-4858-a538-4e03e0cfcd1a.png)
 
-Hey there, I'm Zatiel 
-
-
-Hello, My name is Zatiel, 29 years with 5 years of experience. I love linux, but I am interested in Arch Linux, I'm a web developer, I love the linux terminal, because it, I develop cli applications for linux
-
-My preferred tecnologies are:
-Javascript (Node.js)
-I am interested in:
-Arch Linux (linux operative system)
-Stats
-Zatiel's stats
-
-Most used languages
-Zatiel's Most Used Languages
-
-Interests
-
-
-Languages and Tools:
-csharp javascript linux python react react
 
 <!--
 **jeizaider/jeizaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
