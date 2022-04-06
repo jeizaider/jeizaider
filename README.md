@@ -1,7 +1,25 @@
 ### Hi there 👋 
 
+Hey there, I'm Zatiel 
 
-![wallhaven-g7j3p7_1366x768](https://user-images.githubusercontent.com/64804177/160960887-d52ae207-085a-4d94-b584-98fcb1676061.png)
+
+Hello, My name is Zatiel, 29 years with 5 years of experience. I love linux, but I am interested in Arch Linux, I'm a web developer, I love the linux terminal, because it, I develop cli applications for linux
+
+My preferred tecnologies are:
+Javascript (Node.js)
+I am interested in:
+Arch Linux (linux operative system)
+Stats
+Zatiel's stats
+
+Most used languages
+Zatiel's Most Used Languages
+
+Interests
+
+
+Languages and Tools:
+csharp javascript linux python react react
 
 <!--
 **jeizaider/jeizaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
