@@ -2,8 +2,6 @@
 
 - Arch Linux (linux operative system)
 
-### Interests
-
 <a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 
 <h3 align="left">Languages and Tools:</h3>
