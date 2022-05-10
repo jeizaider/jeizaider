@@ -2,12 +2,6 @@
 
 - Arch Linux (linux operative system)
 
-### Stats
-[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=callmezatiel&show_icons=true&theme=react)](https://github.com/callmezatiel/github-readme-stats)
-
-### Most used languages
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmezatiel&theme=react&layout=compact&hide=HTML)
-
 ### Interests
 
 <a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
