@@ -4,7 +4,7 @@
 ![arch4](https://user-images.githubusercontent.com/64804177/162041073-d8b0d156-a9fd-4858-a538-4e03e0cfcd1a.png)
 
 
-<!--
+
 **jeizaider/jeizaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
