@@ -1,6 +1,8 @@
 <h3 align="center">𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗝𝗮𝘀𝗼𝗻</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28"/> </h3>   
 
-ʜᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴊᴀꜱᴏɴ, ɪ ᴀᴍ 24 ʏᴇᴀʀꜱ ᴏʟᴅ; ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴍᴜᴄʜ ᴇxᴘᴇʀɪᴇɴᴄᴇ ʙᴜᴛ ɪ ᴛʀʏ ᴛᴏ ᴀᴄQᴜɪʀᴇ ɴᴇᴡ ᴋɴᴏᴡʟᴇᴅɢᴇ. ɪ ʀᴇᴀʟʟʏ ʟɪᴋᴇ ʟɪɴᴜx ᴀɴᴅ ᴀʟꜱᴏ ᴅᴇꜱᴋᴛᴏᴘ ᴄᴜꜱᴛᴏᴍɪᴢᴀᴛɪᴏɴ.
+𝗛𝗲𝗹𝗹𝗼 𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗝𝗮𝘀𝗼𝗻, 𝗜 𝗮𝗺 𝟮𝟰 𝘆𝗲𝗮𝗿𝘀 𝗼𝗹𝗱; 𝗜 𝗱𝗼𝗻'𝘁 𝗵𝗮𝘃𝗲 𝗺𝘂𝗰𝗵 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗯𝘂𝘁 𝗜 𝘁𝗿𝘆 𝘁𝗼 𝗮𝗰𝗾𝘂𝗶𝗿𝗲 𝗻𝗲𝘄 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲. 𝗜 𝗿𝗲𝗮𝗹𝗹𝘆 𝗹𝗶𝗸𝗲 𝗹𝗶𝗻𝘂𝘅 𝗮𝗻𝗱 𝗮𝗹𝘀𝗼 𝗱𝗲𝘀𝗸𝘁𝗼𝗽 𝗰𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻.
+
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 ### 𝙈𝙮 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢 𝙞𝙨 𝘼𝙧𝙘𝙝 𝙇𝙞𝙣𝙪𝙭
 
