@@ -1,7 +1,7 @@
 <h1 align="center">𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗝𝗮𝘀𝗼𝗻</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28"/> </h1>   
 
-<h4> <a>ミ★ ʜᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴊᴀꜱᴏɴ, ɪ ᴀᴍ 24 ʏᴇᴀʀꜱ ᴏʟᴅ; ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴍᴜᴄʜ ᴇxᴘᴇʀɪᴇɴᴄᴇ ʙᴜᴛ ɪ ᴛʀʏ ᴛᴏ ᴀᴄQᴜɪʀᴇ ɴᴇᴡ ᴋɴᴏᴡʟᴇᴅɢᴇ. ɪ ʀᴇᴀʟʟʏ ʟɪᴋᴇ ʟɪɴᴜx ᴀɴᴅ ᴀʟꜱᴏ ᴅᴇꜱᴋᴛᴏᴘ ᴄᴜꜱᴛᴏᴍɪᴢᴀᴛɪᴏɴ.
-ᴍʏ ᴍᴀɪɴ ᴏᴘᴇʀᴀᴛɪɴɢ ꜱʏꜱᴛᴇᴍ ɪꜱ ᴀʀᴄʜ ʟɪɴᴜx. ★彡</a> </h4> 
+<h4> <a>Hello my name is Jason, I am 24 years old; I don't have much experience but I try to acquire new knowledge. I really like Linux and also desktop customization.
+My main operating system is Arch Linux.</a> </h4> 
 
 ![2022-05-10-204837_1920x1080_scrot](https://user-images.githubusercontent.com/64804177/167747406-d49fcaf6-305a-4226-84fc-e935062ecf3b.png)
 
