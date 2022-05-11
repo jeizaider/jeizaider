@@ -1,13 +1,14 @@
 <h3 align="center">𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗝𝗮𝘀𝗼𝗻</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28"/> </h3>   
 
+### 𝙈𝙮 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢 𝙞𝙨 𝘼𝙧𝙘𝙝 𝙇𝙞𝙣𝙪𝙭
+#
+#
+![2022-05-10-204837_1920x1080_scrot](https://user-images.githubusercontent.com/64804177/167747406-d49fcaf6-305a-4226-84fc-e935062ecf3b.png)
+
+
 ### 𝙎𝙩𝙖𝙩𝙨
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeizaider&show_icons=true&theme=radical)
-
-### 𝙈𝙮 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢 𝙞𝙨 𝘼𝙧𝙘𝙝 𝙇𝙞𝙣𝙪𝙭
-
-![2022-05-10-204837_1920x1080_scrot](https://user-images.githubusercontent.com/64804177/167747406-d49fcaf6-305a-4226-84fc-e935062ecf3b.png)
-
 
 <h3 align="left">𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨:</h3>
 <p align="left"> 
