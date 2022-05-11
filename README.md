@@ -4,11 +4,10 @@
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeizaider&show_icons=true&theme=radical)
 
-### 𝙄 𝙖𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣:
+### 𝙈𝙮 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙨𝙮𝙨𝙩𝙚𝙢 𝙞𝙨 𝘼𝙧𝙘𝙝 𝙇𝙞𝙣𝙪𝙭
 
-- Arch Linux (linux operative system)
+![2022-05-10-204837_1920x1080_scrot](https://user-images.githubusercontent.com/64804177/167747406-d49fcaf6-305a-4226-84fc-e935062ecf3b.png)
 
-<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 
 <h3 align="left">𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙏𝙤𝙤𝙡𝙨:</h3>
 <p align="left"> 
