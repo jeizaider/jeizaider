@@ -1,6 +1,6 @@
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeizaider&show_icons=true&theme=radical)
+### Stats
 
-![Jason's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeizaider&theme=react&layout=compact&hide=HTML)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeizaider&show_icons=true&theme=radical)
 
 ### I am interested in:
 
