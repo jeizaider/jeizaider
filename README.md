@@ -4,6 +4,8 @@
 My main operating system is Arch Linux. </a> </h4> 
 
 ![2022-05-10-204837_1920x1080_scrot](https://user-images.githubusercontent.com/64804177/167747406-d49fcaf6-305a-4226-84fc-e935062ecf3b.png)
+![2022-07-16-191043_1920x1080_scrot](https://user-images.githubusercontent.com/64804177/179374629-705283f6-26e4-4dd3-9916-eae4455f4d73.png)
+
 
 
 ### 𝙎𝙩𝙖𝙩𝙨
